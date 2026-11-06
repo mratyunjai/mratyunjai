@@ -10,6 +10,20 @@
   📊  Data Analyst | Transforming Data into Insights
 </h3>
 
+
+
+<!-- ANIMATED INTRODUCTION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Business+Insights" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mratyunjai&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/mratyunjai?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
+
 <!-- SOCIAL MEDIA LINKS AT THE TOP -->
 
 <p align="center">
@@ -29,17 +43,6 @@
   <a href="mailto:mratyunjai2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<!-- ANIMATED INTRODUCTION -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau;Turning+Data+into+Business+Insights" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mratyunjai&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mratyunjai?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
